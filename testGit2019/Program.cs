@@ -11,6 +11,7 @@ namespace testGit2019
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world");
+            Console.WriteLine("Comment ça va");
         }
     }
 }
