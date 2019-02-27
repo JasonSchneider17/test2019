@@ -12,6 +12,7 @@ namespace testGit2019
         {
             Console.WriteLine("Hello world");
             Console.WriteLine("Comment ça va");
+            Console.WriteLine("Comment ça va");
         }
     }
 }
